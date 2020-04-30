@@ -1,7 +1,5 @@
 # tugas_1_javascript
 
-**04-JAVASCRIPT-TUGAS-1-JS [Niomic](https://niomic.com/)**
-
  1. Pastikan Teman Teman Sudah Menginstall Node JS
 
  2. Teman - Teman Buatlah File di Folder javascript teman teman sebuah file dengan nama file tugas1.js
@@ -15,3 +13,5 @@
 Hint : number tanpa petik string dengan petik
 
    4. Happy Codding :)
+
+By : [Niomic Tech Education](https://niomic.com/)
